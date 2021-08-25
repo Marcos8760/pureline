@@ -1,1 +1,2 @@
-echo 'source ~/pureline/pureline ~/pureline/.pureline.conf' >> ~/.bashrc
+echo 'source ~/pureline/pureline ~/.pureline.conf' >> ~/.bashrc
+mv '~/pureline/.pureline.conf' '~/'
