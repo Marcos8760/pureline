@@ -1,2 +1,2 @@
 echo 'source ~/pureline/pureline ~/.pureline.conf' >> ~/.bashrc
-mv '~/pureline/.pureline.conf' '~/.pureline.conf'
+mv '/home/$USER/pureline/.pureline.conf' '/home/$USER/.pureline.conf'
