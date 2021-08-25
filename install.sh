@@ -1,0 +1,1 @@
+echo 'source ~/pureline/pureline ~/pureline/.pureline.conf' >> ~/.bashrc
