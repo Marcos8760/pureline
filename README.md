@@ -5,6 +5,6 @@ All i did was made a quick installer so then you dont need to sudo nano your bas
 to my tastes. enjoy, future me.
 
 update: the installer doesnt work. just run this:
-
-```echo 'source ~/pureline/pureline ~/.pureline.conf' >> ~/.bashrc 
+```
+echo 'source ~/pureline/pureline ~/.pureline.conf' >> ~/.bashrc 
 mv ".pureline.conf" "~/"
