@@ -6,5 +6,5 @@ to my tastes. enjoy, future me.
 
 update: the installer doesnt work. just run this:
 
-`echo 'source ~/pureline/pureline ~/.pureline.conf' >> ~/.bashrc`
-`mv ".pureline.conf" "~/"`
+`echo 'source ~/pureline/pureline ~/.pureline.conf' >> ~/.bashrc
+mv ".pureline.conf" "~/"`
